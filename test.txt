@@ -1,3 +1,3 @@
 Random stuff in test.txt
 I added this line in the update-readme-test branch.
-It's cloudy outside today
+It's windy outside today
