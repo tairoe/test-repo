@@ -1,1 +1,2 @@
 Random stuff in test.txt
+I added this line in the update-readme-test branch.

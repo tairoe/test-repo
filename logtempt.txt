@@ -1,0 +1,23 @@
+commit 79669996c27ae204f06bb63dfc194aade2abfe3f
+Author: tairoe <tairoe@gmail.com>
+Date:   Wed Sep 15 13:59:58 2021 -0700
+
+    added pdf to .gitignore
+
+commit 61a0b78477eff1e5e9060916940fe3030192ac05
+Author: tairoe <tairoe@gmail.com>
+Date:   Wed Sep 15 13:57:16 2021 -0700
+
+    added gitignore
+
+commit fe11919c0758d0ff46eb8a95114234dd3cac933f
+Author: tairoe <tairoe@gmail.com>
+Date:   Sun Sep 12 18:36:28 2021 -0700
+
+    Added another.txt AND leaveout.txt
+
+commit 52a87adb9724391dda902d742f4190cbdf33c19a
+Author: tairoe <tairoe@gmail.com>
+Date:   Sun Sep 12 18:28:03 2021 -0700
+
+    added test.txt
